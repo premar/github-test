@@ -1,4 +1,4 @@
-Test_Environment
-================
+Github Test
+--------------
 
-Environment only for experiments with github
+This repository is here just for testing purposes.
